@@ -65,7 +65,7 @@ To focus my analysis on the UK job market, I applied filters to the dataset, nar
 
 To identify the most in-demand skills for the top three popular data roles, I filtered the job positions to determine the most prevalent roles. Subsequently, I extracted the top five skills for each of these roles. This analysis reveals the most popular job titles and their essential skills, providing guidance on which competencies to prioritize based on the targeted role.
 
-View my notebook with detailed steps here: [2_skill_demand_Analysis](Data_science_project_py\Analysis\2_Skills_Demand_Analysis.ipynb)
+View my notebook with detailed steps here: [2_skill_demand_Analysis](Data_science_project_py/Analysis/2_Skills_Demand_Analysis.ipynb)
 
 ### Visualise Data
 
