@@ -88,7 +88,7 @@ plt.show()
 ```
 ### Results
 
-![Visualisation of Top Skills](Data_science_project_py\Images\Skill_demand_all_data_roles.png)
+![Visualisation of Top Skills](Data_science_project_py/Images/Skill_demand_all_data_roles.png)
 
 ### Insights
 
@@ -104,7 +104,7 @@ This analysis shows the varying importance of different skills across these role
 
 To analyse skill trends for Data Analysts in 2023, I filtered job postings for data analyst positions and grouped the required skills by month. This process identified the top five skills for data analysts on a monthly basis, illustrating their popularity throughout the year.
 
-View my notebook with detailed steps here: [3_Skills_Trend](Data_science_project_py\Analysis\3_Skills_Trend.ipynb)
+View my notebook with detailed steps here: [3_Skills_Trend](Data_science_project_py/Analysis/3_Skills_Trend.ipynb)
 
 ### Visualise Data
 
@@ -121,7 +121,7 @@ plt.show()
 ```
 ### Results
 
-![Visualisation of skills trend](Data_science_project_py\Images\Skills_Trend_da.png)
+![Visualisation of skills trend](Data_science_project_py/Images/Skills_Trend_da.png)
 *Bar graph visualising the trending top skills for data analysts in the UK in 2023*
 
 ### Insights
