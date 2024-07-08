@@ -8,7 +8,7 @@ The data, sourced from [Luke Barousse's Python Course](https://github.com/lukeba
 Below are the questions I want to answer in my project:
 
 1. What are the most demanded skills for the top 3 most popular data science roles in the UK? 
-2. How are in-demand skills trending for Data Analysts?
+2. How are in-demand skills trending for Data Analysts in the UK?
 3. How well do jobs and skills pay for Data Analysts?
 4. What are the optimal skills for data analysts to learn? (High Demand AND High Paying)
 
